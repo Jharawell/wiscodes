@@ -23,7 +23,7 @@
 
         // Connect to the database
         $servername = "localhost";
-        $username = "root"; // Replace with your database username
+        $username = "jharawell"; // Replace with your database username
         $password = "052781"; // Replace with your database password
         $dbname = "search_db"; // The database we created earlier
 
